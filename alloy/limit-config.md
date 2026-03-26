@@ -16,7 +16,7 @@
 │                                                                  │
 │  Free    → Strictest limits                                     │
 │  Pro     → Higher limits, some configurable                     │
-│  Advanced → Highest limits, fully configurable                  │
+│  Advanced → Highest limits.                │
 │                                                                  │
 │  Always verify your specific limits at:                         │
 │  your-stack.grafana.net → Administration → Billing & Usage      │
